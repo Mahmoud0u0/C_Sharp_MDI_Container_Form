@@ -1,0 +1,10 @@
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\C_Sharp_MDI_Container_Form\obj\Debug\WindowsFormsApp1.pdb
